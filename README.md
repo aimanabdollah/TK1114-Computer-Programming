@@ -1,5 +1,5 @@
-# TK1114-Computer-Programming
-This repository is about my solution for Programming Lab Work Book for TK1114 Computer Programming
+# TK1114 Computer Programming - Java 101 Problem Solving Practice
+This repository is about my solution for Programming Lab Work Book Java 101 for TK1114 Computer Programming
 
 ## Synopsis Course
 This course is intended as a first introduction to programming. The course is conducted in such a
