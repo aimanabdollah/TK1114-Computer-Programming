@@ -30,7 +30,9 @@ public class B_Quadrant {
 		}
 	}
 
-/*
+/* 
+
+SAMPLE INPUT-OUTPUT
 5
 0 0
 Case #1: AXIS
