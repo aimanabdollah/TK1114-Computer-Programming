@@ -1,9 +1,6 @@
 import java.util.Scanner;
-
-
 public class Test
-{
-	
+{	
 	public static void firstPattern(int n){
 	    for(int i=0;i<n;i++)
 	    {
