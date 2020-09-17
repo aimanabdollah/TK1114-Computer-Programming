@@ -12,8 +12,8 @@ public class I_FinalGrade
 		
 		for(int i=1; i<=student; i++)
 		{
-			quiz=sc.nextInt();
-			assignment=sc.nextInt();
+                    quiz=sc.nextInt();
+		    assignment=sc.nextInt();
 		    finalExam=sc.nextInt();
 		    
 		    finalGrades=quiz+assignment+finalExam;
@@ -24,16 +24,16 @@ public class I_FinalGrade
 		    else if(finalGrades >=80 && finalGrades<=89){
 				grade='B';
 				System.out.println("Student #"+i+": "+finalGrades+" "+grade);}
-			else if(finalGrades >=60 && finalGrades<=79){
+		    else if(finalGrades >=60 && finalGrades<=79){
 				grade='C';
 				System.out.println("Student #"+i+": "+finalGrades+" "+grade);}
-			else if(finalGrades >=50 && finalGrades<=59){
+		    else if(finalGrades >=50 && finalGrades<=59){
 				grade='D';
 				System.out.println("Student #"+i+": "+finalGrades+" "+grade);}
 		    else if(finalGrades<50){
 				grade='F';
 				System.out.println("Student #"+i+": "+finalGrades+" "+grade);}
-			else
+	            else
 				break;
 		}
 	}
