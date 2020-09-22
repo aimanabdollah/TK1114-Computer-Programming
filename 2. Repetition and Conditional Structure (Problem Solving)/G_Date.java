@@ -6,7 +6,7 @@ public class G_Date {
 		
 		int N;
 		
-		N = sc.nextInt();
+		 = sc.nextInt();
 		
 		for(int i=1; i<=N; i++) {
 			
