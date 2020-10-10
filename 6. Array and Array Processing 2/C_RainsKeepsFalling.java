@@ -46,7 +46,7 @@ public class C_RainsKeepsFalling{
         			
         	 testCase ++;
         	 startYear = sc.nextInt();
-             endYear = sc.nextInt();
+                 endYear = sc.nextInt();
         }      
     }
 }
